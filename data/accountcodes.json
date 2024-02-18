@@ -1,0 +1,2810 @@
+[
+  {
+    "Code": 100000,
+    "Description": "Cash Clearing/Claim on Cash"
+  },
+  {
+    "Code": 100005,
+    "Description": "Wells Fargo Bank Accounts Payable"
+  },
+  {
+    "Code": 100010,
+    "Description": "Wells Fargo Bank Payroll"
+  },
+  {
+    "Code": 100015,
+    "Description": "Wells Fargo Bank Limited Purchase"
+  },
+  {
+    "Code": 100100,
+    "Description": "Cash In Bank"
+  },
+  {
+    "Code": 100105,
+    "Description": "Vault Cash-Cashiers"
+  },
+  {
+    "Code": 100110,
+    "Description": "Cash SIS-Spring"
+  },
+  {
+    "Code": 100115,
+    "Description": "Cash SIS-Summer"
+  },
+  {
+    "Code": 100120,
+    "Description": "Cash SIS-Fall"
+  },
+  {
+    "Code": 100125,
+    "Description": "Payment via OnAccess"
+  },
+  {
+    "Code": 100130,
+    "Description": "Petty Cash and Change"
+  },
+  {
+    "Code": 100135,
+    "Description": "Cash Held In Trusts"
+  },
+  {
+    "Code": 100140,
+    "Description": "Dfcm Cash"
+  },
+  {
+    "Code": 100145,
+    "Description": "Investment Pool"
+  },
+  {
+    "Code": 110005,
+    "Description": "CUR Investments"
+  },
+  {
+    "Code": 110010,
+    "Description": "CUR Trustee Investments"
+  },
+  {
+    "Code": 110015,
+    "Description": "CUR Investment Discount"
+  },
+  {
+    "Code": 110020,
+    "Description": "CUR Unrealized Gain/Loss"
+  },
+  {
+    "Code": 110025,
+    "Description": "CUR Investments Held in Trusts"
+  },
+  {
+    "Code": 110030,
+    "Description": "CUR Interest Receivable"
+  },
+  {
+    "Code": 120005,
+    "Description": "Buyback Clearing Acct"
+  },
+  {
+    "Code": 120010,
+    "Description": "Accts Rec-Students Past Due"
+  },
+  {
+    "Code": 120012,
+    "Description": "Accts Rec-Students Banner"
+  },
+  {
+    "Code": 120014,
+    "Description": "Accts Rec-LMS"
+  },
+  {
+    "Code": 120015,
+    "Description": "Accts Rec-Other"
+  },
+  {
+    "Code": 120017,
+    "Description": "Accts Rec-Third Party/Sponsor Stud"
+  },
+  {
+    "Code": 120020,
+    "Description": "Accts Rec-Employee"
+  },
+  {
+    "Code": 120025,
+    "Description": "Accts Rec-Year End"
+  },
+  {
+    "Code": 120027,
+    "Description": "Accts Rec-Year End Accrual"
+  },
+  {
+    "Code": 120030,
+    "Description": "Grant/Contracts Unbilled"
+  },
+  {
+    "Code": 120035,
+    "Description": "Dishonored Checks"
+  },
+  {
+    "Code": 120040,
+    "Description": "Allowance Doubt Acct"
+  },
+  {
+    "Code": 120042,
+    "Description": "Allowance Doubt Acct-LMS"
+  },
+  {
+    "Code": 120045,
+    "Description": "Collections Holding Outside Source"
+  },
+  {
+    "Code": 120050,
+    "Description": "Accts Rec-ITEX McKay"
+  },
+  {
+    "Code": 130005,
+    "Description": "Inven Merc/Resal"
+  },
+  {
+    "Code": 130010,
+    "Description": "Inven Oper Supps"
+  },
+  {
+    "Code": 130015,
+    "Description": "Inven Food"
+  },
+  {
+    "Code": 130100,
+    "Description": "Warehouse/Stores Inventory"
+  },
+  {
+    "Code": 130105,
+    "Description": "Warhouse/Stores Inv Transfers In"
+  },
+  {
+    "Code": 130110,
+    "Description": "Warehouse/Stores Inv Transfers Out"
+  },
+  {
+    "Code": 130115,
+    "Description": "Warehouse/Stores Inv Valuation"
+  },
+  {
+    "Code": 140005,
+    "Description": "Prepaid Expense"
+  },
+  {
+    "Code": 140010,
+    "Description": "Payroll Clearing"
+  },
+  {
+    "Code": 140015,
+    "Description": "Payroll Charges"
+  },
+  {
+    "Code": 140020,
+    "Description": "Deferred Charges"
+  },
+  {
+    "Code": 160005,
+    "Description": "Suspense Activity"
+  },
+  {
+    "Code": 170001,
+    "Description": "Due from Other Funds"
+  },
+  {
+    "Code": 180004,
+    "Description": "CUR Notes Receivable-Year End Acc"
+  },
+  {
+    "Code": 180005,
+    "Description": "CUR Notes Receivable"
+  },
+  {
+    "Code": 180010,
+    "Description": "CUR Loans Rec-NDSL"
+  },
+  {
+    "Code": 180015,
+    "Description": "CUR Loan Principal Collected"
+  },
+  {
+    "Code": 180020,
+    "Description": "CUR Defaulted Loans Assigned"
+  },
+  {
+    "Code": 180021,
+    "Description": "CUR Loan Assigned-Disability"
+  },
+  {
+    "Code": 180025,
+    "Description": "CUR Principal Cancelled-Disability"
+  },
+  {
+    "Code": 180030,
+    "Description": "CUR Principal Cancelled-Teaching"
+  },
+  {
+    "Code": 180031,
+    "Description": "CUR Princ Canc-Teach Math Science"
+  },
+  {
+    "Code": 180035,
+    "Description": "CUR Principal Adjustments-Other"
+  },
+  {
+    "Code": 180040,
+    "Description": "CUR Principal Cancelled-Death"
+  },
+  {
+    "Code": 180045,
+    "Description": "CUR Principal Cancelled-Bankruptcy"
+  },
+  {
+    "Code": 180050,
+    "Description": "CUR Principal Cancelled-Nursing"
+  },
+  {
+    "Code": 180051,
+    "Description": "CUR Principal Cancelled-Fire Fighters"
+  },
+  {
+    "Code": 180055,
+    "Description": "CUR Principal Cancelled-Law Enforce"
+  },
+  {
+    "Code": 180060,
+    "Description": "CUR Principal Cancelled-Family Serv"
+  },
+  {
+    "Code": 180065,
+    "Description": "CUR Principal Cancelled-Head Start"
+  },
+  {
+    "Code": 180070,
+    "Description": "CUR Principal Cancelled-Military"
+  },
+  {
+    "Code": 180090,
+    "Description": "Allowance for Doubtful Acct-Perkins"
+  },
+  {
+    "Code": 180100,
+    "Description": "Collections Perkins Holding"
+  },
+  {
+    "Code": 180101,
+    "Description": "Collections IHELP Holding"
+  },
+  {
+    "Code": 180105,
+    "Description": "Collections Miscellaneous Holding"
+  },
+  {
+    "Code": 180110,
+    "Description": "CUR Loans Rec-IHELP"
+  },
+  {
+    "Code": 180115,
+    "Description": "CUR Loan Principal Collected-IHELP"
+  },
+  {
+    "Code": 180120,
+    "Description": "CUR Defaulted Loans-IHELP"
+  },
+  {
+    "Code": 185015,
+    "Description": "Pledges Rec Current Portion"
+  },
+  {
+    "Code": 191000,
+    "Description": "NC Cash and Cash Equivalents"
+  },
+  {
+    "Code": 192005,
+    "Description": "NC Investments"
+  },
+  {
+    "Code": 192010,
+    "Description": "NC Trustee Investments"
+  },
+  {
+    "Code": 192015,
+    "Description": "NC Investment Discount"
+  },
+  {
+    "Code": 192020,
+    "Description": "NC Unrealized Gain/Loss"
+  },
+  {
+    "Code": 192025,
+    "Description": "NC Investments Held in Trusts"
+  },
+  {
+    "Code": 193005,
+    "Description": "NC Notes Receivable"
+  },
+  {
+    "Code": 193010,
+    "Description": "NC Loans Rec-NDSL"
+  },
+  {
+    "Code": 193015,
+    "Description": "NC Loan Principal Collected"
+  },
+  {
+    "Code": 193020,
+    "Description": "NC Defaulted Loans Assigned"
+  },
+  {
+    "Code": 193025,
+    "Description": "NC Principal Cancelled-Disability"
+  },
+  {
+    "Code": 193030,
+    "Description": "NC Principal Cancelled-Teaching"
+  },
+  {
+    "Code": 193035,
+    "Description": "NC Principal Adjustments-Other"
+  },
+  {
+    "Code": 193040,
+    "Description": "NC Principal Cancelled-Death"
+  },
+  {
+    "Code": 193045,
+    "Description": "NC Principal Cancelled-Bankruptcy"
+  },
+  {
+    "Code": 193050,
+    "Description": "NC Principal Cancelled-Nursing"
+  },
+  {
+    "Code": 193055,
+    "Description": "NC Principal Cancelled-Law Enforce"
+  },
+  {
+    "Code": 193060,
+    "Description": "NC Principal Cancelled-Family Serv"
+  },
+  {
+    "Code": 193065,
+    "Description": "NC Principal Cancelled-Head Start"
+  },
+  {
+    "Code": 194005,
+    "Description": "Inactive-was an error"
+  },
+  {
+    "Code": 194010,
+    "Description": "Inactive-set up in error"
+  },
+  {
+    "Code": 194015,
+    "Description": "Pledges Receivable"
+  },
+  {
+    "Code": 195005,
+    "Description": "Land"
+  },
+  {
+    "Code": 195010,
+    "Description": "Land Improvements-Non Depreciable"
+  },
+  {
+    "Code": 195015,
+    "Description": "Works of Art/Historical Treasures"
+  },
+  {
+    "Code": 195020,
+    "Description": "Land Improvements-Depreciable"
+  },
+  {
+    "Code": 195025,
+    "Description": "Infrastructure"
+  },
+  {
+    "Code": 195030,
+    "Description": "Buildings"
+  },
+  {
+    "Code": 195035,
+    "Description": "Equipment"
+  },
+  {
+    "Code": 195040,
+    "Description": "Library Books/Films"
+  },
+  {
+    "Code": 195045,
+    "Description": "Leasehold Improvements"
+  },
+  {
+    "Code": 195050,
+    "Description": "Construction In Prog"
+  },
+  {
+    "Code": 199005,
+    "Description": "Land Improvements-Accum Depr"
+  },
+  {
+    "Code": 199010,
+    "Description": "Infrastructure-Accum Depr"
+  },
+  {
+    "Code": 199015,
+    "Description": "Buildings-Accumulated Depreciation"
+  },
+  {
+    "Code": 199020,
+    "Description": "Equipment-Accumulated Depreciation"
+  },
+  {
+    "Code": 199025,
+    "Description": "Library Books/Films-Accum Depr"
+  },
+  {
+    "Code": 199030,
+    "Description": "Leasehold Improvements-Accum Depr"
+  },
+  {
+    "Code": 200005,
+    "Description": "Interest Payable"
+  },
+  {
+    "Code": 200008,
+    "Description": "Accounts Payable"
+  },
+  {
+    "Code": 200009,
+    "Description": "Pre Banner AP Balances"
+  },
+  {
+    "Code": 200011,
+    "Description": "AP Accruals"
+  },
+  {
+    "Code": 200014,
+    "Description": "Year End Accounts Payable"
+  },
+  {
+    "Code": 200017,
+    "Description": "Willy Card Payable"
+  },
+  {
+    "Code": 200020,
+    "Description": "Willy Card Trust"
+  },
+  {
+    "Code": 200023,
+    "Description": "Sales Tax Payable"
+  },
+  {
+    "Code": 200026,
+    "Description": "Deposits"
+  },
+  {
+    "Code": 200027,
+    "Description": "VA33 EFT Payments"
+  },
+  {
+    "Code": 200029,
+    "Description": "AR Refunds Clearing"
+  },
+  {
+    "Code": 200030,
+    "Description": "AR Refunds Clearing Manual"
+  },
+  {
+    "Code": 200032,
+    "Description": "Interface Feeds Account Suspense"
+  },
+  {
+    "Code": 200035,
+    "Description": "AR Contract Clearing-Third Party"
+  },
+  {
+    "Code": 200115,
+    "Description": "Miscellaneous"
+  },
+  {
+    "Code": 210005,
+    "Description": "Taxes-Fica"
+  },
+  {
+    "Code": 210007,
+    "Description": "Taxes-Federal"
+  },
+  {
+    "Code": 210009,
+    "Description": "Taxes-State/Local"
+  },
+  {
+    "Code": 210011,
+    "Description": "Taxes-Earned Income"
+  },
+  {
+    "Code": 210013,
+    "Description": "Pedp Traditional"
+  },
+  {
+    "Code": 210015,
+    "Description": "Pre-Paid Legal Serv"
+  },
+  {
+    "Code": 210017,
+    "Description": "MET Life"
+  },
+  {
+    "Code": 210019,
+    "Description": "State Retirement"
+  },
+  {
+    "Code": 210021,
+    "Description": "Tiaa Cref"
+  },
+  {
+    "Code": 210023,
+    "Description": "Emia Care Plus"
+  },
+  {
+    "Code": 210025,
+    "Description": "Emia Supplem Ins"
+  },
+  {
+    "Code": 210027,
+    "Description": "United Fund"
+  },
+  {
+    "Code": 210029,
+    "Description": "Amer Fed Of Teachers"
+  },
+  {
+    "Code": 210031,
+    "Description": "Am Family Life Ins"
+  },
+  {
+    "Code": 210033,
+    "Description": "Goodwill Association"
+  },
+  {
+    "Code": 210035,
+    "Description": "Recovery Services"
+  },
+  {
+    "Code": 210037,
+    "Description": "Bankers Life Tax She"
+  },
+  {
+    "Code": 210039,
+    "Description": "Putnam Tax Shelter"
+  },
+  {
+    "Code": 210040,
+    "Description": "Utah Educational Saving Plan UESP"
+  },
+  {
+    "Code": 210041,
+    "Description": "Great Am Life Ins"
+  },
+  {
+    "Code": 210043,
+    "Description": "Openheimer Funds Tax"
+  },
+  {
+    "Code": 210045,
+    "Description": "Beneficial Life"
+  },
+  {
+    "Code": 210047,
+    "Description": "State Accident Ins"
+  },
+  {
+    "Code": 210049,
+    "Description": "Emia Basic Life Ins"
+  },
+  {
+    "Code": 210051,
+    "Description": "Emia Dependent Life"
+  },
+  {
+    "Code": 210053,
+    "Description": "Emia Lg Term Dis Ins"
+  },
+  {
+    "Code": 210055,
+    "Description": "Workmans Comp Lo Rsk"
+  },
+  {
+    "Code": 210057,
+    "Description": "Workmans Comp High R"
+  },
+  {
+    "Code": 210059,
+    "Description": "Deposit To Checking"
+  },
+  {
+    "Code": 210061,
+    "Description": "Upea Dues"
+  },
+  {
+    "Code": 210063,
+    "Description": "UT Alliance-Police O"
+  },
+  {
+    "Code": 210065,
+    "Description": "UVCC Payroll Adv"
+  },
+  {
+    "Code": 210067,
+    "Description": "State Ret Non-Colleg"
+  },
+  {
+    "Code": 210069,
+    "Description": "Partners In Progress"
+  },
+  {
+    "Code": 210071,
+    "Description": "Utah Nurses Assoc"
+  },
+  {
+    "Code": 210073,
+    "Description": "Federated Staff"
+  },
+  {
+    "Code": 210075,
+    "Description": "Health Plus"
+  },
+  {
+    "Code": 210076,
+    "Description": "Anchor National Life"
+  },
+  {
+    "Code": 210077,
+    "Description": "Emia Dental Pref"
+  },
+  {
+    "Code": 210079,
+    "Description": "Fidelity Investments"
+  },
+  {
+    "Code": 210081,
+    "Description": "Copeland Companies"
+  },
+  {
+    "Code": 210083,
+    "Description": "Valic"
+  },
+  {
+    "Code": 210085,
+    "Description": "Employer-Fica"
+  },
+  {
+    "Code": 210087,
+    "Description": "Employer-Unemploymnt"
+  },
+  {
+    "Code": 210089,
+    "Description": "Employer-Benefits"
+  },
+  {
+    "Code": 210091,
+    "Description": "UVSCNet Payroll Deduction"
+  },
+  {
+    "Code": 210093,
+    "Description": "UVT Athletic Tickets"
+  },
+  {
+    "Code": 210095,
+    "Description": "Long-Term Care Insurance"
+  },
+  {
+    "Code": 220005,
+    "Description": "CUR Accrued Payroll"
+  },
+  {
+    "Code": 230005,
+    "Description": "CUR Accrued Early Retirement"
+  },
+  {
+    "Code": 240005,
+    "Description": "CUR Deferred Revenue"
+  },
+  {
+    "Code": 250005,
+    "Description": "Deposits"
+  },
+  {
+    "Code": 250010,
+    "Description": "A/R Unapplied Payments"
+  },
+  {
+    "Code": 250015,
+    "Description": "Third Party/Sponsor Unapplied Pmts"
+  },
+  {
+    "Code": 250020,
+    "Description": "Financial Aid Unapplied Pmts"
+  },
+  {
+    "Code": 250025,
+    "Description": "Installment Unapplied Pmts"
+  },
+  {
+    "Code": 250030,
+    "Description": "Exemptions Unapplied Pmts"
+  },
+  {
+    "Code": 250100,
+    "Description": "EFT Student Loans"
+  },
+  {
+    "Code": 250102,
+    "Description": "Bank One Of Utah"
+  },
+  {
+    "Code": 250104,
+    "Description": "First Interstate Bank"
+  },
+  {
+    "Code": 250106,
+    "Description": "First Security Bank"
+  },
+  {
+    "Code": 250108,
+    "Description": "Key Bank Of Utah"
+  },
+  {
+    "Code": 250110,
+    "Description": "Mountain America CU"
+  },
+  {
+    "Code": 250112,
+    "Description": "U Of Utah CU"
+  },
+  {
+    "Code": 250114,
+    "Description": "Zions First Nat Bank"
+  },
+  {
+    "Code": 250116,
+    "Description": "Universal Campus CU"
+  },
+  {
+    "Code": 250118,
+    "Description": "Tooele Federal CU"
+  },
+  {
+    "Code": 250120,
+    "Description": "Weber State Federal"
+  },
+  {
+    "Code": 250122,
+    "Description": "Family First Federal"
+  },
+  {
+    "Code": 250124,
+    "Description": "Jordan Credit Union"
+  },
+  {
+    "Code": 250126,
+    "Description": "Community First Bank"
+  },
+  {
+    "Code": 250128,
+    "Description": "Granite District CU"
+  },
+  {
+    "Code": 250130,
+    "Description": "United Savings Bank"
+  },
+  {
+    "Code": 250132,
+    "Description": "West One Bank"
+  },
+  {
+    "Code": 250134,
+    "Description": "Barnes Banking Co"
+  },
+  {
+    "Code": 250136,
+    "Description": "Washington Mutual Inc"
+  },
+  {
+    "Code": 250138,
+    "Description": "Bank One Of Arizona"
+  },
+  {
+    "Code": 250140,
+    "Description": "US Bank"
+  },
+  {
+    "Code": 250142,
+    "Description": "USA Funds"
+  },
+  {
+    "Code": 250144,
+    "Description": "Salt Lake City CU"
+  },
+  {
+    "Code": 250146,
+    "Description": "American First CU"
+  },
+  {
+    "Code": 250148,
+    "Description": "USU Comm CU"
+  },
+  {
+    "Code": 250150,
+    "Description": "Deseret First CU"
+  },
+  {
+    "Code": 260000,
+    "Description": "Interchart Due To/Due From"
+  },
+  {
+    "Code": 260001,
+    "Description": "Due to Other Funds"
+  },
+  {
+    "Code": 270005,
+    "Description": "CUR Lease Payables"
+  },
+  {
+    "Code": 270010,
+    "Description": "CUR Notes Payable-1"
+  },
+  {
+    "Code": 270015,
+    "Description": "CUR Notes Payable-2"
+  },
+  {
+    "Code": 280005,
+    "Description": "CUR 1995 Bonds Payable"
+  },
+  {
+    "Code": 280006,
+    "Description": "CUR 1995 Bond Discount"
+  },
+  {
+    "Code": 280010,
+    "Description": "CUR 1999 Bonds Payable"
+  },
+  {
+    "Code": 280011,
+    "Description": "CUR 1999 Bond Discount"
+  },
+  {
+    "Code": 280015,
+    "Description": "CUR 2000 Bonds Payable"
+  },
+  {
+    "Code": 280016,
+    "Description": "CUR 2000 Bond Premium"
+  },
+  {
+    "Code": 280020,
+    "Description": "CUR MBA 2004AB Bonds Payable"
+  },
+  {
+    "Code": 280021,
+    "Description": "CUR MBA 2004B Bond Premium"
+  },
+  {
+    "Code": 280022,
+    "Description": "CUR MBA 2004A Bond Discount"
+  },
+  {
+    "Code": 280023,
+    "Description": "CUR MBA 2004B Deferred Amt Refunding"
+  },
+  {
+    "Code": 280025,
+    "Description": "CUR SBR 2004AB Bonds Payable"
+  },
+  {
+    "Code": 280026,
+    "Description": "CUR SBR 2004AB Bond Premium"
+  },
+  {
+    "Code": 280027,
+    "Description": "CUR SBR 2004A Deferred Amt Refunding"
+  },
+  {
+    "Code": 280028,
+    "Description": "CUR SBR 2004B Deferred Amt Refunding"
+  },
+  {
+    "Code": 290005,
+    "Description": "NC Lease Payables"
+  },
+  {
+    "Code": 290010,
+    "Description": "NC Notes Payable-1"
+  },
+  {
+    "Code": 290015,
+    "Description": "NC Notes Payable-2"
+  },
+  {
+    "Code": 291005,
+    "Description": "NC Accrued Early Retirement"
+  },
+  {
+    "Code": 292001,
+    "Description": "NC Deferred Revenue"
+  },
+  {
+    "Code": 292002,
+    "Description": "Instit Capital Cont"
+  },
+  {
+    "Code": 292003,
+    "Description": "Fed Capital Cont"
+  },
+  {
+    "Code": 292004,
+    "Description": "Other Deferred Rev"
+  },
+  {
+    "Code": 295005,
+    "Description": "1995 Bonds Payable"
+  },
+  {
+    "Code": 295006,
+    "Description": "1995 Bond Discount"
+  },
+  {
+    "Code": 295010,
+    "Description": "1999 Bonds Payable"
+  },
+  {
+    "Code": 295011,
+    "Description": "1999 Bond Discount"
+  },
+  {
+    "Code": 295015,
+    "Description": "2000 Bonds Payable"
+  },
+  {
+    "Code": 295016,
+    "Description": "2000 Bond Premium"
+  },
+  {
+    "Code": 295020,
+    "Description": "MBA 2004AB Bonds Payable"
+  },
+  {
+    "Code": 295021,
+    "Description": "MBA 2004B Bond Premium"
+  },
+  {
+    "Code": 295022,
+    "Description": "MBA 2004A Bond Discount"
+  },
+  {
+    "Code": 295023,
+    "Description": "MBA 2004B Deferred Amt on Refunding"
+  },
+  {
+    "Code": 295024,
+    "Description": "Error-can reuse"
+  },
+  {
+    "Code": 295025,
+    "Description": "SBR 2004AB Bonds Payable"
+  },
+  {
+    "Code": 295026,
+    "Description": "SBR 2004AB Bond Premium"
+  },
+  {
+    "Code": 295027,
+    "Description": "SBR 2004A Deferred Amt on Refunding"
+  },
+  {
+    "Code": 295028,
+    "Description": "SBR 2004B Deferred Amt on Refunding"
+  },
+  {
+    "Code": 310000,
+    "Description": "Net Assets"
+  },
+  {
+    "Code": 320000,
+    "Description": "Invested in Capital Assets"
+  },
+  {
+    "Code": 330000,
+    "Description": "Unrestricted Net Assets"
+  },
+  {
+    "Code": 340000,
+    "Description": "Restricted Non-Expendable Fund Bal"
+  },
+  {
+    "Code": 350050,
+    "Description": "Res Expnd Fnd Bal-US Gov Grnt Refnd"
+  },
+  {
+    "Code": 350100,
+    "Description": "Res Expendable Fund Balance-Loans"
+  },
+  {
+    "Code": 350150,
+    "Description": "Res Expendable Fund Bal-Cap Project"
+  },
+  {
+    "Code": 350200,
+    "Description": "Res Expndable Fund Bal-Debt Service"
+  },
+  {
+    "Code": 360000,
+    "Description": "Assets Held in Custody for Others"
+  },
+  {
+    "Code": 500000,
+    "Description": "Revenue Budget"
+  },
+  {
+    "Code": 501105,
+    "Description": "Resident Undergraduate"
+  },
+  {
+    "Code": 503105,
+    "Description": "Resident Graduate"
+  },
+  {
+    "Code": 506105,
+    "Description": "Nonresident Undergraduate"
+  },
+  {
+    "Code": 508105,
+    "Description": "Nonresident Graduate"
+  },
+  {
+    "Code": 509000,
+    "Description": "Tuition-Off Budget"
+  },
+  {
+    "Code": 509005,
+    "Description": "Tuition -Off Budget"
+  },
+  {
+    "Code": 511105,
+    "Description": "Resident 10 percent"
+  },
+  {
+    "Code": 511305,
+    "Description": "Senior Citizens"
+  },
+  {
+    "Code": 511505,
+    "Description": "Police/Firefighter Survivor"
+  },
+  {
+    "Code": 511605,
+    "Description": "Wards of the State"
+  },
+  {
+    "Code": 511705,
+    "Description": "Public School Teacher"
+  },
+  {
+    "Code": 511805,
+    "Description": "Employee Tuition Remissions"
+  },
+  {
+    "Code": 511905,
+    "Description": "National Guard Waivers"
+  },
+  {
+    "Code": 511955,
+    "Description": "MATC General Ed"
+  },
+  {
+    "Code": 516105,
+    "Description": "Nonres Merit Res Portion First Year"
+  },
+  {
+    "Code": 516205,
+    "Description": "Nonres Merit Nonres Portion 1st Yr"
+  },
+  {
+    "Code": 516305,
+    "Description": "Nonres Merit Nonres Portion Cont"
+  },
+  {
+    "Code": 516705,
+    "Description": "WICHE/WUE"
+  },
+  {
+    "Code": 517005,
+    "Description": "Certain High School Graduates"
+  },
+  {
+    "Code": 520105,
+    "Description": "Off Campus Fees"
+  },
+  {
+    "Code": 520110,
+    "Description": "STL Write-Off"
+  },
+  {
+    "Code": 520115,
+    "Description": "Tuition Write-Off"
+  },
+  {
+    "Code": 520118,
+    "Description": "Petitions Tuition Adjustments"
+  },
+  {
+    "Code": 520120,
+    "Description": "Financial Aid Repay"
+  },
+  {
+    "Code": 520125,
+    "Description": "Admission Fee W/O"
+  },
+  {
+    "Code": 520130,
+    "Description": "Collection of Prev Write-offs"
+  },
+  {
+    "Code": 520135,
+    "Description": "Activity Fees"
+  },
+  {
+    "Code": 520140,
+    "Description": "Admission Fees-Undergraduate"
+  },
+  {
+    "Code": 520142,
+    "Description": "Admission Fees-Graduate"
+  },
+  {
+    "Code": 520145,
+    "Description": "Class Change Fee"
+  },
+  {
+    "Code": 520150,
+    "Description": "Graduation Fee"
+  },
+  {
+    "Code": 520155,
+    "Description": "Late Payment Fee"
+  },
+  {
+    "Code": 520160,
+    "Description": "Recording Fee"
+  },
+  {
+    "Code": 520165,
+    "Description": "Special Exam Fee"
+  },
+  {
+    "Code": 520170,
+    "Description": "Testing Fee"
+  },
+  {
+    "Code": 520175,
+    "Description": "Transcript Fee"
+  },
+  {
+    "Code": 520505,
+    "Description": "Activity Fee-Spring"
+  },
+  {
+    "Code": 520510,
+    "Description": "Activity Ctr Fee-Spring"
+  },
+  {
+    "Code": 520515,
+    "Description": "Athletic Fee-Spring"
+  },
+  {
+    "Code": 520520,
+    "Description": "Building Fee-Spring"
+  },
+  {
+    "Code": 520525,
+    "Description": "Computer Fee-Spring"
+  },
+  {
+    "Code": 520530,
+    "Description": "Student Center Fee-Spring"
+  },
+  {
+    "Code": 520605,
+    "Description": "Activity Fee-Summer"
+  },
+  {
+    "Code": 520610,
+    "Description": "Activity Ctr Fee-Summer"
+  },
+  {
+    "Code": 520615,
+    "Description": "Athletic Fee-Summer"
+  },
+  {
+    "Code": 520620,
+    "Description": "Building Fee-Summer"
+  },
+  {
+    "Code": 520625,
+    "Description": "Computer Fee-Summer"
+  },
+  {
+    "Code": 520630,
+    "Description": "Student Center Fee-Summer"
+  },
+  {
+    "Code": 520705,
+    "Description": "Activity Fee-Fall"
+  },
+  {
+    "Code": 520710,
+    "Description": "Activity Ctr Fee-Fall"
+  },
+  {
+    "Code": 520715,
+    "Description": "Athletic Fee-Fall"
+  },
+  {
+    "Code": 520720,
+    "Description": "Building Fee-Fall"
+  },
+  {
+    "Code": 520725,
+    "Description": "Computer Fee-Fall"
+  },
+  {
+    "Code": 520730,
+    "Description": "Student Center Fee-Fall"
+  },
+  {
+    "Code": 525005,
+    "Description": "Lab Access Fee"
+  },
+  {
+    "Code": 525010,
+    "Description": "Lab Fees-Misc"
+  },
+  {
+    "Code": 525015,
+    "Description": "Other Fees"
+  },
+  {
+    "Code": 534005,
+    "Description": "State Appropriations"
+  },
+  {
+    "Code": 534010,
+    "Description": "State Appropriations-Capital"
+  },
+  {
+    "Code": 534015,
+    "Description": "State Approp-State Trust Funds"
+  },
+  {
+    "Code": 540105,
+    "Description": "Fed Grants and Contracts-Exchange"
+  },
+  {
+    "Code": 540110,
+    "Description": "Fed Grants and Contracts Non-exch"
+  },
+  {
+    "Code": 540115,
+    "Description": "Fed Grants and Contracts-Capital"
+  },
+  {
+    "Code": 540505,
+    "Description": "State Grants and Contracts-Exchange"
+  },
+  {
+    "Code": 540510,
+    "Description": "State Grants and Contracts Non-exch"
+  },
+  {
+    "Code": 545015,
+    "Description": "State Grants and Contracts-Capital"
+  },
+  {
+    "Code": 540905,
+    "Description": "Private Grants and Contracts"
+  },
+  {
+    "Code": 540910,
+    "Description": "Donations"
+  },
+  {
+    "Code": 540913,
+    "Description": "Donations-Capital"
+  },
+  {
+    "Code": 540915,
+    "Description": "Donations-Phonathon"
+  },
+  {
+    "Code": 540920,
+    "Description": "Donations-Presidential"
+  },
+  {
+    "Code": 540925,
+    "Description": "Donations-Golf Tournament"
+  },
+  {
+    "Code": 560105,
+    "Description": "Admit-Athletics Taxable"
+  },
+  {
+    "Code": 560110,
+    "Description": "Admit-Dance Taxable"
+  },
+  {
+    "Code": 560115,
+    "Description": "Admit-Other Taxable"
+  },
+  {
+    "Code": 560120,
+    "Description": "Admit-Theater Taxable"
+  },
+  {
+    "Code": 560125,
+    "Description": "Art/Graphic Supplies-Taxable"
+  },
+  {
+    "Code": 560130,
+    "Description": "Amusement Taxable"
+  },
+  {
+    "Code": 560135,
+    "Description": "Books-Gen Reading Taxable"
+  },
+  {
+    "Code": 560140,
+    "Description": "Catering Taxable"
+  },
+  {
+    "Code": 560155,
+    "Description": "Clothing Taxable"
+  },
+  {
+    "Code": 560160,
+    "Description": "Computer Supplies Taxable"
+  },
+  {
+    "Code": 560165,
+    "Description": "Computers Taxable"
+  },
+  {
+    "Code": 560170,
+    "Description": "Concessions Taxable"
+  },
+  {
+    "Code": 560175,
+    "Description": "Confection Taxable"
+  },
+  {
+    "Code": 560180,
+    "Description": "Copies Taxable"
+  },
+  {
+    "Code": 560190,
+    "Description": "Food Taxable"
+  },
+  {
+    "Code": 560191,
+    "Description": "Snacks Taxable"
+  },
+  {
+    "Code": 560192,
+    "Description": "Sundries Taxable"
+  },
+  {
+    "Code": 560193,
+    "Description": "Restaurant Taxable"
+  },
+  {
+    "Code": 560195,
+    "Description": "Gifts/Jewelry Taxable"
+  },
+  {
+    "Code": 560205,
+    "Description": "Other Taxable"
+  },
+  {
+    "Code": 560240,
+    "Description": "Service Taxable"
+  },
+  {
+    "Code": 560245,
+    "Description": "Software Taxable"
+  },
+  {
+    "Code": 560255,
+    "Description": "Supplies Taxable"
+  },
+  {
+    "Code": 560260,
+    "Description": "Text Books -New Taxable"
+  },
+  {
+    "Code": 560265,
+    "Description": "Tickets Taxable"
+  },
+  {
+    "Code": 560270,
+    "Description": "Text Books -Used Taxable"
+  },
+  {
+    "Code": 560505,
+    "Description": "Admit-Athletics Non-Taxable"
+  },
+  {
+    "Code": 560510,
+    "Description": "Admit-Dance Non-Taxable"
+  },
+  {
+    "Code": 560515,
+    "Description": "Admit-Other Non-Taxable"
+  },
+  {
+    "Code": 560520,
+    "Description": "Admit-Theater Non-Taxable"
+  },
+  {
+    "Code": 560525,
+    "Description": "Advertising Non-Taxable"
+  },
+  {
+    "Code": 560530,
+    "Description": "Amusement Non-Taxable"
+  },
+  {
+    "Code": 560535,
+    "Description": "Books-Gen Reading Non-Taxable"
+  },
+  {
+    "Code": 560540,
+    "Description": "Art/Graphic Supplies Non-Taxable"
+  },
+  {
+    "Code": 560545,
+    "Description": "Catalog Non-Taxable"
+  },
+  {
+    "Code": 560550,
+    "Description": "Catering Non-Taxable"
+  },
+  {
+    "Code": 560555,
+    "Description": "Clothing Non-Taxable"
+  },
+  {
+    "Code": 560560,
+    "Description": "Computer Supplies Non-Taxable"
+  },
+  {
+    "Code": 560565,
+    "Description": "Computers Non-Taxable"
+  },
+  {
+    "Code": 560570,
+    "Description": "Concessions Non-Taxable"
+  },
+  {
+    "Code": 560575,
+    "Description": "Confection Non-Taxable"
+  },
+  {
+    "Code": 560580,
+    "Description": "Copies Non-Taxable"
+  },
+  {
+    "Code": 560585,
+    "Description": "Decals Non-Taxable"
+  },
+  {
+    "Code": 560590,
+    "Description": "Food Non-Taxable"
+  },
+  {
+    "Code": 560591,
+    "Description": "Snacks Non-Taxable"
+  },
+  {
+    "Code": 560592,
+    "Description": "Sundries Non-Taxable"
+  },
+  {
+    "Code": 560593,
+    "Description": "Restaurant Non-Taxable"
+  },
+  {
+    "Code": 560595,
+    "Description": "Gifts/Jewelry Non-Taxable"
+  },
+  {
+    "Code": 560600,
+    "Description": "Meters Non-Taxable"
+  },
+  {
+    "Code": 560605,
+    "Description": "Other Non-Taxable"
+  },
+  {
+    "Code": 560610,
+    "Description": "Parking Non-Taxable"
+  },
+  {
+    "Code": 560615,
+    "Description": "Parking Lot L Non-Taxable"
+  },
+  {
+    "Code": 560620,
+    "Description": "Parking Lot D Non-Taxable"
+  },
+  {
+    "Code": 560625,
+    "Description": "Printing Non-Taxable"
+  },
+  {
+    "Code": 560630,
+    "Description": "Remotes Non-Taxable"
+  },
+  {
+    "Code": 560635,
+    "Description": "Schedules Non-Taxable"
+  },
+  {
+    "Code": 560640,
+    "Description": "Service Non-Taxable"
+  },
+  {
+    "Code": 560645,
+    "Description": "Software Non-Taxable"
+  },
+  {
+    "Code": 560650,
+    "Description": "Stamps Non-Taxable"
+  },
+  {
+    "Code": 560655,
+    "Description": "Supplies Non-Taxable"
+  },
+  {
+    "Code": 560660,
+    "Description": "Text Books -New Non-Taxable"
+  },
+  {
+    "Code": 560665,
+    "Description": "Tickets Non-Taxable"
+  },
+  {
+    "Code": 560670,
+    "Description": "Text Books -Used Non-Taxable"
+  },
+  {
+    "Code": 560675,
+    "Description": "UTA Bus Pass Non-Taxable"
+  },
+  {
+    "Code": 560680,
+    "Description": "Vending Non-Taxable"
+  },
+  {
+    "Code": 560685,
+    "Description": "Shipping and Handling Non-Taxable"
+  },
+  {
+    "Code": 560690,
+    "Description": "Aviation Flight Time Non-Taxable"
+  },
+  {
+    "Code": 560805,
+    "Description": "Fines"
+  },
+  {
+    "Code": 560810,
+    "Description": "Over/Short"
+  },
+  {
+    "Code": 560815,
+    "Description": "Returned Check Charges"
+  },
+  {
+    "Code": 560820,
+    "Description": "Service Charges"
+  },
+  {
+    "Code": 560825,
+    "Description": "Service Reimbursements"
+  },
+  {
+    "Code": 560830,
+    "Description": "Other"
+  },
+  {
+    "Code": 560835,
+    "Description": "Interest Income-Operations"
+  },
+  {
+    "Code": 560840,
+    "Description": "Interest Income-Canceled/Other"
+  },
+  {
+    "Code": 560905,
+    "Description": "Conferences and Workshops"
+  },
+  {
+    "Code": 560908,
+    "Description": "Instructional Supplies"
+  },
+  {
+    "Code": 560911,
+    "Description": "Rental-ATM"
+  },
+  {
+    "Code": 560914,
+    "Description": "Rental-Equipment Non-Tax"
+  },
+  {
+    "Code": 560917,
+    "Description": "Rental-Events Center Non-Tax"
+  },
+  {
+    "Code": 560920,
+    "Description": "Rental-Lease Payments"
+  },
+  {
+    "Code": 560923,
+    "Description": "Rental-Lockers Non-Tax"
+  },
+  {
+    "Code": 560926,
+    "Description": "Rental-Other Non-Tax"
+  },
+  {
+    "Code": 560929,
+    "Description": "Rental-Rooms Non-Tax"
+  },
+  {
+    "Code": 560932,
+    "Description": "Services-Tutoring"
+  },
+  {
+    "Code": 560935,
+    "Description": "Services-LMS"
+  },
+  {
+    "Code": 560938,
+    "Description": "Signs"
+  },
+  {
+    "Code": 560941,
+    "Description": "Dues"
+  },
+  {
+    "Code": 580005,
+    "Description": "Interest Income"
+  },
+  {
+    "Code": 580010,
+    "Description": "Gains/Losses"
+  },
+  {
+    "Code": 582001,
+    "Description": "Allocated Indirect Costs"
+  },
+  {
+    "Code": 582004,
+    "Description": "Computer Hardware-Intra Campus"
+  },
+  {
+    "Code": 582007,
+    "Description": "Computer Network Parts Intra Campus"
+  },
+  {
+    "Code": 582010,
+    "Description": "Computer Software-Intra Campus"
+  },
+  {
+    "Code": 582013,
+    "Description": "Conferences/Training-Intra Campus"
+  },
+  {
+    "Code": 582016,
+    "Description": "Culinary Arts-Intra Campus"
+  },
+  {
+    "Code": 582019,
+    "Description": "Events Center-Intra Campus"
+  },
+  {
+    "Code": 582022,
+    "Description": "Keys and Locks-Intra Campus"
+  },
+  {
+    "Code": 582025,
+    "Description": "Luncheons/Receptions-Intra Campus"
+  },
+  {
+    "Code": 582028,
+    "Description": "Maintenance/Remodeling Intra Campus"
+  },
+  {
+    "Code": 582031,
+    "Description": "Misc-Intra Campus charges"
+  },
+  {
+    "Code": 582034,
+    "Description": "Parking-Intra Campus"
+  },
+  {
+    "Code": 582037,
+    "Description": "Postage and Handling-Intra Campus"
+  },
+  {
+    "Code": 582040,
+    "Description": "Printing-Intra Campus"
+  },
+  {
+    "Code": 582043,
+    "Description": "Publicity/Advertising Intra Camp"
+  },
+  {
+    "Code": 582046,
+    "Description": "Reimbursements-Intra Campus"
+  },
+  {
+    "Code": 582049,
+    "Description": "Rentals-Intra Campus"
+  },
+  {
+    "Code": 582052,
+    "Description": "Services Miscellaneous Intra Campus"
+  },
+  {
+    "Code": 582055,
+    "Description": "Services-Police Intra Campus"
+  },
+  {
+    "Code": 582058,
+    "Description": "Signs-Intra Campus"
+  },
+  {
+    "Code": 582061,
+    "Description": "Telephone-Long Dist Intra campus"
+  },
+  {
+    "Code": 582064,
+    "Description": "Telephone-Fax/Modem Intra campus"
+  },
+  {
+    "Code": 582067,
+    "Description": "Telephone Services-Intra campus"
+  },
+  {
+    "Code": 582070,
+    "Description": "Transfers-Intra Campus"
+  },
+  {
+    "Code": 582073,
+    "Description": "UVSC Net-Intra Campus"
+  },
+  {
+    "Code": 582076,
+    "Description": "Warehouse-Intra Campus"
+  },
+  {
+    "Code": 582501,
+    "Description": "Gain on Sale of Fixed Assets"
+  },
+  {
+    "Code": 582900,
+    "Description": "Expended for Plant (Offset Cap Exp)"
+  },
+  {
+    "Code": 582905,
+    "Description": "Expended for Leases (Offset pmts)"
+  },
+  {
+    "Code": 611005,
+    "Description": "Faculty -Instr Salaries"
+  },
+  {
+    "Code": 611010,
+    "Description": "Faculty -Adm Salaries"
+  },
+  {
+    "Code": 613001,
+    "Description": "Exec/Adm Salaries"
+  },
+  {
+    "Code": 615001,
+    "Description": "Exempt Staff Salaries"
+  },
+  {
+    "Code": 615002,
+    "Description": "Non-exempt Staff Salaries"
+  },
+  {
+    "Code": 620000,
+    "Description": "Wages/Hourly Budget"
+  },
+  {
+    "Code": 621001,
+    "Description": "Hourly Faculty Regular"
+  },
+  {
+    "Code": 625001,
+    "Description": "Hourly Staff Regular"
+  },
+  {
+    "Code": 630000,
+    "Description": "Benefits Budget"
+  },
+  {
+    "Code": 630001,
+    "Description": "Benefits Cost Distribution"
+  },
+  {
+    "Code": 630101,
+    "Description": "Workers Comp"
+  },
+  {
+    "Code": 630201,
+    "Description": "FICA Match"
+  },
+  {
+    "Code": 630301,
+    "Description": "TIAA Match"
+  },
+  {
+    "Code": 630401,
+    "Description": "State Retirement Contributory"
+  },
+  {
+    "Code": 630501,
+    "Description": "State Retirement Non-Contributory"
+  },
+  {
+    "Code": 630502,
+    "Description": "Post Ret URS Amortization Contrbtn"
+  },
+  {
+    "Code": 630701,
+    "Description": "Life Insurance"
+  },
+  {
+    "Code": 630801,
+    "Description": "LT Disability Insurance"
+  },
+  {
+    "Code": 630901,
+    "Description": "Indemnity Insurance"
+  },
+  {
+    "Code": 631001,
+    "Description": "Health Insurance"
+  },
+  {
+    "Code": 631002,
+    "Description": "UVU Employee Medical Claims"
+  },
+  {
+    "Code": 632001,
+    "Description": "Dental Insurance"
+  },
+  {
+    "Code": 632002,
+    "Description": "UVU Employee Dental Claims"
+  },
+  {
+    "Code": 633002,
+    "Description": "Benefit Plans Fees"
+  },
+  {
+    "Code": 640001,
+    "Description": "Taxable Cell Phone Reimbursements"
+  },
+  {
+    "Code": 700000,
+    "Description": "Current/Capital/Travel Budget"
+  },
+  {
+    "Code": 710000,
+    "Description": "Current Expense Budget"
+  },
+  {
+    "Code": 710105,
+    "Description": "Building Maintenance and Repairs"
+  },
+  {
+    "Code": 710108,
+    "Description": "Building Materials-Improvement"
+  },
+  {
+    "Code": 710111,
+    "Description": "Electrical Supplies"
+  },
+  {
+    "Code": 710114,
+    "Description": "Equipment-Maintenance"
+  },
+  {
+    "Code": 710117,
+    "Description": "Equipment Repair-Maintenance"
+  },
+  {
+    "Code": 710120,
+    "Description": "Grounds Maintenance"
+  },
+  {
+    "Code": 710123,
+    "Description": "Janitorial Supplies"
+  },
+  {
+    "Code": 710126,
+    "Description": "Keys and Locks"
+  },
+  {
+    "Code": 710129,
+    "Description": "Laundry and Linen Services"
+  },
+  {
+    "Code": 710132,
+    "Description": "Paint"
+  },
+  {
+    "Code": 710135,
+    "Description": "Parking Lot Maintenance"
+  },
+  {
+    "Code": 710138,
+    "Description": "Parts-Maintenance"
+  },
+  {
+    "Code": 710141,
+    "Description": "Chemicals"
+  },
+  {
+    "Code": 710144,
+    "Description": "Radios / Repair"
+  },
+  {
+    "Code": 710147,
+    "Description": "Services-Maintenance"
+  },
+  {
+    "Code": 710150,
+    "Description": "Signs"
+  },
+  {
+    "Code": 710153,
+    "Description": "Testing Services"
+  },
+  {
+    "Code": 710156,
+    "Description": "Tools and Instruments"
+  },
+  {
+    "Code": 710305,
+    "Description": "Ins-Fire and Boiler"
+  },
+  {
+    "Code": 710310,
+    "Description": "Ins-Liability"
+  },
+  {
+    "Code": 710315,
+    "Description": "Ins-Other"
+  },
+  {
+    "Code": 710320,
+    "Description": "Ins-Vehicle"
+  },
+  {
+    "Code": 710505,
+    "Description": "Auto Parts"
+  },
+  {
+    "Code": 710510,
+    "Description": "Gas/Oil/Grease"
+  },
+  {
+    "Code": 710515,
+    "Description": "Motor Vehicle Repair"
+  },
+  {
+    "Code": 710520,
+    "Description": "Shuttle Bus Expense"
+  },
+  {
+    "Code": 710525,
+    "Description": "Vehicle Maintenance"
+  },
+  {
+    "Code": 710705,
+    "Description": "Telephone-Cellular"
+  },
+  {
+    "Code": 710707,
+    "Description": "Payroll Reimbursed-Cell Phone"
+  },
+  {
+    "Code": 710710,
+    "Description": "Telephone-Equipment"
+  },
+  {
+    "Code": 710715,
+    "Description": "Telephone-Service Carriers"
+  },
+  {
+    "Code": 710720,
+    "Description": "Telephone-Pagers"
+  },
+  {
+    "Code": 710725,
+    "Description": "Utilities-Waste Removal"
+  },
+  {
+    "Code": 710735,
+    "Description": "Utilities-Sewer"
+  },
+  {
+    "Code": 710740,
+    "Description": "Utilities-Waste"
+  },
+  {
+    "Code": 710745,
+    "Description": "Utilities-Water"
+  },
+  {
+    "Code": 710905,
+    "Description": "Long Term Debt-Interest Expense"
+  },
+  {
+    "Code": 710910,
+    "Description": "Retirement of Debt"
+  },
+  {
+    "Code": 710915,
+    "Description": "Long Term Debt-Interest Expense"
+  },
+  {
+    "Code": 710920,
+    "Description": "Retirement of Debt"
+  },
+  {
+    "Code": 720001,
+    "Description": "Allocated Indirect Costs"
+  },
+  {
+    "Code": 720004,
+    "Description": "Computer Hardware-Intra Campus"
+  },
+  {
+    "Code": 720007,
+    "Description": "Comp Network Parts-Intra Campus"
+  },
+  {
+    "Code": 720010,
+    "Description": "Computer Software-Intra Campus"
+  },
+  {
+    "Code": 720013,
+    "Description": "Conferences/Training-Intra Campus"
+  },
+  {
+    "Code": 720016,
+    "Description": "Culinary Arts-Intra Campus"
+  },
+  {
+    "Code": 720019,
+    "Description": "Events Ctr Settlements Intra Campus"
+  },
+  {
+    "Code": 720022,
+    "Description": "Keys and Locks-Intra Campus"
+  },
+  {
+    "Code": 720025,
+    "Description": "Luncheons/Receptions-Intra Campus"
+  },
+  {
+    "Code": 720028,
+    "Description": "Maintenance/Remodeling Intra Campus"
+  },
+  {
+    "Code": 720031,
+    "Description": "Misc-Intra Campus charges"
+  },
+  {
+    "Code": 720034,
+    "Description": "Parking Services-Intra Campus"
+  },
+  {
+    "Code": 720037,
+    "Description": "Postage and Handling-Intra Campus"
+  },
+  {
+    "Code": 720040,
+    "Description": "Printing-Intra Campus"
+  },
+  {
+    "Code": 720043,
+    "Description": "Publicity/Advertising Intra Camp"
+  },
+  {
+    "Code": 720046,
+    "Description": "Reimbursements-Intra Campus"
+  },
+  {
+    "Code": 720049,
+    "Description": "Rentals-Intra Campus"
+  },
+  {
+    "Code": 720052,
+    "Description": "Services-Misc-Intra Campus"
+  },
+  {
+    "Code": 720055,
+    "Description": "Services-Police Intra Campus"
+  },
+  {
+    "Code": 720058,
+    "Description": "Signs-Intra Campus"
+  },
+  {
+    "Code": 720061,
+    "Description": "Telephone-Long Dist Intra campus"
+  },
+  {
+    "Code": 720064,
+    "Description": "Telephone-Fax/Modem Intra campus"
+  },
+  {
+    "Code": 720067,
+    "Description": "Telephone Services-Intra campus"
+  },
+  {
+    "Code": 720070,
+    "Description": "Transfers-Intra Campus"
+  },
+  {
+    "Code": 720073,
+    "Description": "UVSC Net-Intra Campus"
+  },
+  {
+    "Code": 720076,
+    "Description": "Warehouse-Intra Campus"
+  },
+  {
+    "Code": 720081,
+    "Description": "Gifts/Jewelry Non-Tax-Intracampus"
+  },
+  {
+    "Code": 720090,
+    "Description": "Wolverine Marketplace Computer Shop"
+  },
+  {
+    "Code": 720091,
+    "Description": "Wolverine Marketplace Warehouse Stores"
+  },
+  {
+    "Code": 720105,
+    "Description": "Conf/Seminars-Off Campus"
+  },
+  {
+    "Code": 720110,
+    "Description": "Non-UVU Tuition Reimbursement"
+  },
+  {
+    "Code": 720135,
+    "Description": "Annuity Expense"
+  },
+  {
+    "Code": 720155,
+    "Description": "Books and Publishing -non-Library"
+  },
+  {
+    "Code": 720160,
+    "Description": "Copying Costs"
+  },
+  {
+    "Code": 720165,
+    "Description": "Printing Supplies and Services"
+  },
+  {
+    "Code": 720205,
+    "Description": "Books and Publishing-Library"
+  },
+  {
+    "Code": 720210,
+    "Description": "Clothing/Uniforms-Instructional"
+  },
+  {
+    "Code": 720215,
+    "Description": "Equipment-Instructional"
+  },
+  {
+    "Code": 720255,
+    "Description": "Audio Visual Supplies"
+  },
+  {
+    "Code": 720260,
+    "Description": "Food-Classrooms"
+  },
+  {
+    "Code": 720265,
+    "Description": "Fuel-Aviation"
+  },
+  {
+    "Code": 720270,
+    "Description": "Instructional Supplies"
+  },
+  {
+    "Code": 720275,
+    "Description": "Parts-Instructional"
+  },
+  {
+    "Code": 720280,
+    "Description": "Periodicals Binding"
+  },
+  {
+    "Code": 720285,
+    "Description": "Photo Supplies/Service"
+  },
+  {
+    "Code": 720290,
+    "Description": "Scenery and Props"
+  },
+  {
+    "Code": 720295,
+    "Description": "Testing Supplies"
+  },
+  {
+    "Code": 720355,
+    "Description": "Lease Payments-Buildings"
+  },
+  {
+    "Code": 720360,
+    "Description": "Lease Payments-Equipment"
+  },
+  {
+    "Code": 720365,
+    "Description": "Lease Payments-Other"
+  },
+  {
+    "Code": 720405,
+    "Description": "Services-Consulting"
+  },
+  {
+    "Code": 720410,
+    "Description": "Services-Contract 1099"
+  },
+  {
+    "Code": 720415,
+    "Description": "Services-Instruction"
+  },
+  {
+    "Code": 720420,
+    "Description": "Services-Officials"
+  },
+  {
+    "Code": 720425,
+    "Description": "Services-Other"
+  },
+  {
+    "Code": 720430,
+    "Description": "Services-Professional"
+  },
+  {
+    "Code": 720435,
+    "Description": "Services-Staffing"
+  },
+  {
+    "Code": 720440,
+    "Description": "Services-Testing"
+  },
+  {
+    "Code": 720445,
+    "Description": "Stipends"
+  },
+  {
+    "Code": 720505,
+    "Description": "Advertising and Publicity"
+  },
+  {
+    "Code": 720508,
+    "Description": "Awards and Gifts"
+  },
+  {
+    "Code": 720511,
+    "Description": "Clothing/Uniforms"
+  },
+  {
+    "Code": 720512,
+    "Description": "Tickets/Entertainment"
+  },
+  {
+    "Code": 720514,
+    "Description": "Computer Software"
+  },
+  {
+    "Code": 720516,
+    "Description": "Software as a Service (SaaS)"
+  },
+  {
+    "Code": 720517,
+    "Description": "Deposit Refunds"
+  },
+  {
+    "Code": 720520,
+    "Description": "Floral Arrangement"
+  },
+  {
+    "Code": 720523,
+    "Description": "Freight-General"
+  },
+  {
+    "Code": 720526,
+    "Description": "Indirect Overhead Costs"
+  },
+  {
+    "Code": 720529,
+    "Description": "Interest / Bank Charges"
+  },
+  {
+    "Code": 720532,
+    "Description": "Interest Expense"
+  },
+  {
+    "Code": 720535,
+    "Description": "Limited Purchase Exp"
+  },
+  {
+    "Code": 720538,
+    "Description": "Luncheons/Receptions"
+  },
+  {
+    "Code": 720541,
+    "Description": "Medical Care and Related Supplies"
+  },
+  {
+    "Code": 720544,
+    "Description": "Memberships"
+  },
+  {
+    "Code": 720547,
+    "Description": "Moving/Relocation"
+  },
+  {
+    "Code": 720550,
+    "Description": "Office Supplies"
+  },
+  {
+    "Code": 720553,
+    "Description": "Other Office and General"
+  },
+  {
+    "Code": 720556,
+    "Description": "Postage and Handling"
+  },
+  {
+    "Code": 720559,
+    "Description": "Procurement Card"
+  },
+  {
+    "Code": 720562,
+    "Description": "Project Expenses"
+  },
+  {
+    "Code": 720565,
+    "Description": "Subscriptions"
+  },
+  {
+    "Code": 720568,
+    "Description": "Taxes and Assessments"
+  },
+  {
+    "Code": 720571,
+    "Description": "Wolverine Card"
+  },
+  {
+    "Code": 720574,
+    "Description": "Loan Clearing/WO"
+  },
+  {
+    "Code": 720705,
+    "Description": "Equipment Repair-Office"
+  },
+  {
+    "Code": 720710,
+    "Description": "Office Equipment"
+  },
+  {
+    "Code": 720715,
+    "Description": "Office Furniture"
+  },
+  {
+    "Code": 720720,
+    "Description": "Computer Hardware/Parts"
+  },
+  {
+    "Code": 720725,
+    "Description": "Computer Network / Parts"
+  },
+  {
+    "Code": 720805,
+    "Description": "Rentals-General"
+  },
+  {
+    "Code": 720810,
+    "Description": "Rentals-Space"
+  },
+  {
+    "Code": 730005,
+    "Description": "Resale-New Text Books"
+  },
+  {
+    "Code": 730008,
+    "Description": "Resale-Bus Passes"
+  },
+  {
+    "Code": 730011,
+    "Description": "Resale-Computers"
+  },
+  {
+    "Code": 730014,
+    "Description": "Resale-Computers/Ele"
+  },
+  {
+    "Code": 730017,
+    "Description": "Resale-Events Center"
+  },
+  {
+    "Code": 730020,
+    "Description": "Resale-Food"
+  },
+  {
+    "Code": 730023,
+    "Description": "Resale-Freight"
+  },
+  {
+    "Code": 730026,
+    "Description": "Resale-Gifts/Cards"
+  },
+  {
+    "Code": 730029,
+    "Description": "Resale-Kitchenware"
+  },
+  {
+    "Code": 730032,
+    "Description": "Resale-Movie Passes"
+  },
+  {
+    "Code": 730035,
+    "Description": "Resale-General Reading"
+  },
+  {
+    "Code": 730038,
+    "Description": "Resale-Soft Goods"
+  },
+  {
+    "Code": 730041,
+    "Description": "Resale-Software"
+  },
+  {
+    "Code": 730044,
+    "Description": "Resale-Stamps"
+  },
+  {
+    "Code": 730047,
+    "Description": "Resale-Supplies"
+  },
+  {
+    "Code": 730050,
+    "Description": "Resale-Used Text Books"
+  },
+  {
+    "Code": 740000,
+    "Description": "Fuel and Power Budget"
+  },
+  {
+    "Code": 741005,
+    "Description": "Utilities-Gas"
+  },
+  {
+    "Code": 742005,
+    "Description": "Utilities-Electric"
+  },
+  {
+    "Code": 744005,
+    "Description": "Utilities-Fuel"
+  },
+  {
+    "Code": 745005,
+    "Description": "Utilities-Other"
+  },
+  {
+    "Code": 750000,
+    "Description": "Travel Expense Budget"
+  },
+  {
+    "Code": 750005,
+    "Description": "In State Travel"
+  },
+  {
+    "Code": 750010,
+    "Description": "In State Travel Motor Pool Charges"
+  },
+  {
+    "Code": 750015,
+    "Description": "Out State Travel"
+  },
+  {
+    "Code": 750020,
+    "Description": "Travel Advance"
+  },
+  {
+    "Code": 750025,
+    "Description": "Recruiting Travel"
+  },
+  {
+    "Code": 750030,
+    "Description": "International Travel"
+  },
+  {
+    "Code": 760000,
+    "Description": "Scholarship Budget"
+  },
+  {
+    "Code": 760005,
+    "Description": "Cost of Princ and Int Cancel"
+  },
+  {
+    "Code": 760010,
+    "Description": "Scholarships-Federal"
+  },
+  {
+    "Code": 760011,
+    "Description": "Scholarships-Federal PELL-Odd Year"
+  },
+  {
+    "Code": 760012,
+    "Description": "Scholarships-Federal PELL-Even Year"
+  },
+  {
+    "Code": 760015,
+    "Description": "Scholarships-State"
+  },
+  {
+    "Code": 760020,
+    "Description": "Scholarships-Private"
+  },
+  {
+    "Code": 760025,
+    "Description": "Scholarships-Exchange"
+  },
+  {
+    "Code": 760030,
+    "Description": "Scholarships-Food"
+  },
+  {
+    "Code": 760035,
+    "Description": "Scholarships-Housing"
+  },
+  {
+    "Code": 760040,
+    "Description": "Tuition Expense"
+  },
+  {
+    "Code": 760045,
+    "Description": "Tuition Refunds"
+  },
+  {
+    "Code": 760050,
+    "Description": "Tuition Waivers"
+  },
+  {
+    "Code": 760100,
+    "Description": "Sub Stafford Loans - Even"
+  },
+  {
+    "Code": 760101,
+    "Description": "Sub Stafford Loans - Odd"
+  },
+  {
+    "Code": 760104,
+    "Description": "Unsub Stafford Loans - Even"
+  },
+  {
+    "Code": 760105,
+    "Description": "Unsub Stafford Loans - Odd"
+  },
+  {
+    "Code": 760108,
+    "Description": "Additional Stafford Loans - Even"
+  },
+  {
+    "Code": 760109,
+    "Description": "Additional Stafford Loans - Odd"
+  },
+  {
+    "Code": 760112,
+    "Description": "Plus Loans - Even"
+  },
+  {
+    "Code": 760113,
+    "Description": "Plus Loans - Odd"
+  },
+  {
+    "Code": 760116,
+    "Description": "Grad Sub Stafford Loan - Even"
+  },
+  {
+    "Code": 760117,
+    "Description": "Grad Sub Stafford Loan - Odd"
+  },
+  {
+    "Code": 760120,
+    "Description": "Grad Unsub Stafford Loan - Even"
+  },
+  {
+    "Code": 760121,
+    "Description": "Grad Unsub Stafford Loan - Odd"
+  },
+  {
+    "Code": 760124,
+    "Description": "Grad Additional Stafford Loan - Even"
+  },
+  {
+    "Code": 760125,
+    "Description": "Grad Additional Stafford Loan - Odd"
+  },
+  {
+    "Code": 760128,
+    "Description": "Grad PLUS Loan - Even"
+  },
+  {
+    "Code": 760129,
+    "Description": "Grad PLUS Loan - Odd"
+  },
+  {
+    "Code": 770000,
+    "Description": "Capital Expenditure Budget"
+  },
+  {
+    "Code": 770001,
+    "Description": "Capital Exp-Library Books/Films"
+  },
+  {
+    "Code": 770002,
+    "Description": "Leasehold Improvements"
+  },
+  {
+    "Code": 770005,
+    "Description": "Aircraft"
+  },
+  {
+    "Code": 770010,
+    "Description": "Audio Visual Equip"
+  },
+  {
+    "Code": 770015,
+    "Description": "Data Process Equip/Computers"
+  },
+  {
+    "Code": 770020,
+    "Description": "Instructional Equip"
+  },
+  {
+    "Code": 770025,
+    "Description": "Misc Equipment"
+  },
+  {
+    "Code": 770030,
+    "Description": "Motor Vehicles"
+  },
+  {
+    "Code": 770035,
+    "Description": "Office Equipment"
+  },
+  {
+    "Code": 770040,
+    "Description": "Buildings/Additions/Major Imp"
+  },
+  {
+    "Code": 770045,
+    "Description": "Infrastructure"
+  },
+  {
+    "Code": 770050,
+    "Description": "Land Improvements-Depreciable"
+  },
+  {
+    "Code": 770055,
+    "Description": "Land Improvements-Non Depreciable"
+  },
+  {
+    "Code": 770060,
+    "Description": "Land Purchases"
+  },
+  {
+    "Code": 770063,
+    "Description": "Works of Art/Hist Treasures"
+  },
+  {
+    "Code": 770065,
+    "Description": "Capital Leases-Equipment"
+  },
+  {
+    "Code": 770070,
+    "Description": "Buildings"
+  },
+  {
+    "Code": 770075,
+    "Description": "Land"
+  },
+  {
+    "Code": 779000,
+    "Description": "Gain/Loss on Disposal of Asset"
+  },
+  {
+    "Code": 780005,
+    "Description": "Depreciation Land Improvements"
+  },
+  {
+    "Code": 780010,
+    "Description": "Depreciation Infrastructure"
+  },
+  {
+    "Code": 780015,
+    "Description": "Depreciation Buildings"
+  },
+  {
+    "Code": 780020,
+    "Description": "Depreciation Equipment"
+  },
+  {
+    "Code": 780025,
+    "Description": "Depreciation Library Books/Films"
+  },
+  {
+    "Code": 780030,
+    "Description": "Depreciation Leasehold Improvements"
+  },
+  {
+    "Code": 790005,
+    "Description": "Indirect Costs"
+  },
+  {
+    "Code": 810005,
+    "Description": "Transfers-Mandatory-In"
+  },
+  {
+    "Code": 820005,
+    "Description": "Transfers-Mandatory-Out"
+  },
+  {
+    "Code": 850005,
+    "Description": "Trans-Non Mandatory-In"
+  },
+  {
+    "Code": 860005,
+    "Description": "Trans-Non Mandatory-Out"
+  },
+  {
+    "Code": 910000,
+    "Description": "Fund Additions"
+  },
+  {
+    "Code": 960000,
+    "Description": "Fund Deductions"
+  }
+]

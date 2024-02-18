@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>University Fundraising Budget App</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;600&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="styles/main.css">
+  <style>
+  table {
+    margin: auto;
+    margin-bottom: 5rem;
+    border-radius: .5rem;
+    border: 3px solid black;
+    }
+    table caption {
+        font-size: x-large;
+    }
+
+    td {
+        white-space: nowrap;
+        padding: .2rem; 
+        vertical-align: top;
+        text-align: center;
+    }
+    
+    #budget {
+      margin: auto;
+      width: max-content;
+      padding: 1rem;
+      font-size: large;
+    }
+
+    #filter {
+      text-align: center;
+      margin: 0 auto;
+    }
+
+    th {
+        padding: .5rem;
+    }
+  </style>
+</head>
+
+<body>
+  <nav>
+    <ul id="menu">
+      <li><a id="toggleMenu">&equiv;</a></li>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="w01-task.html">W1 Task</a></li>
+      <li><a href="w03-task.html">W3 Task</a></li>
+      <li><a href="w04-task.html">W4 Task</a></li>
+      <li><a href="w05-task.html">W5 Task</a></li>
+      <li><a href="project.html" class="active">Project</a></li>
+    </ul>
+  </nav>
+  <main id="gridly">
+    <h1>University Development Managers' Budget</h1>
+    <h2>Budget Report by Development Area</h2>
+    <div id="filter">
+    <select id="filtered" title="Choose a data filter.">
+      <option value="" disabled selected>Filter Unit</option>
+      <option value="athletics">Athletics</option>
+      <option value="chps">Health & Public Service</option>
+      <option value="soe">Education</option>
+      <option value="chss">Humanities & Social Science</option>
+      <option value="soa">Arts</option>
+      <option value="stdaff">Student Affairs</option>
+      <option value="wsb">Business</option>
+      <option value="science">Science</option>
+      <option value="cet">Engineering & Technology</option>
+      <option value="acaff">Academic Affairs</option>
+      <option value="general">General</option>
+      <option value="all">No Filter</option>
+    </select>
+    </div>
+    <div id="budget">
+    </div>
+    <div id="budget-table">
+    </div>
+  </main>
+
+
+  <footer>
+    &copy;<span id="year"></span> | Week 06 - Final Project Application | CSE 121b
+  </footer>
+  <script src="scripts/main.js"></script>
+  <script>
+    document.getElementById("year").innerHTML = new Date().getFullYear();
+  </script>
+  <script src="scripts/project.js"></script>
+</body>
+
+</html>
